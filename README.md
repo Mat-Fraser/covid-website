@@ -7,7 +7,8 @@ a basic website of covid-19 help and support with clean UI and information about
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## User Interface
+
 
 ### Technology 
 - HTML5
