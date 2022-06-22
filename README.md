@@ -5,7 +5,8 @@ a basic website of covid-19 help and support with clean UI and information about
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A basic website of covid-19 help and support with clean UI and information about.The site has 
+
 
 ## User Interface
 ![1](https://user-images.githubusercontent.com/86045021/174629040-397eb20f-0cad-450d-848c-a6bf8255ada1.JPG)
