@@ -5,7 +5,7 @@ a basic website of covid-19 help and support with clean UI and information about
 
 ## Description
 
-A basic website of covid-19 help and support with clean UI and information about.The site has 
+A basic website of covid-19 help and support with clean UI and information about.The site has 6 major sections Home page, About(to get info about covid-19), Prevet(to get info abbout precautions measures to be taked), Experts (where you willl find doctors for help),contact section and Blogs regarding covid. 
 
 
 ## User Interface
